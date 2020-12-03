@@ -1,6 +1,6 @@
 ## IRIS FLOWER CLASSIFICATION
 
-<p align="center"><img src="https://github.com/pratik-276/End-to-End-Machine-Learning-Projects/blob/master/IRIS%20Flower%20Classification%20Project/static/Iris-virginica.PNG" height="200" width="200"></p>
+<p align="center"><img src="https://github.com/itzanuragsinghania/IRIS-Flower-ClassificationIRIS%20Flower%20Classification%20Project/static/Iris-virginica.PNG" height="200" width="200"></p>
 
 ## Introduction
 
@@ -25,7 +25,7 @@ All the visualizations used in this project can be found in this <a href="https:
 1. Drop a ⭐ on the Github Repository.
 2. Download the repo as a zip file or clone it using the following command
 ```sh
-https://github.com/pratik-276/End-to-End-Machine-Learning-Projects.git
+https://github.com/itzanuragsinghania/IRIS-Flower-Classification.git
 ```
 
 3. Move inside the ` /IRIS Flower Classification Project ` folder and open CLI in that folder
