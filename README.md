@@ -1,6 +1,6 @@
 ## IRIS FLOWER CLASSIFICATION
 
-<p align="center"><img src="https://github.com/itzanuragsinghania/IRIS-Flower-ClassificationIRIS%20Flower%20Classification%20Project/static/Iris-virginica.PNG" height="200" width="200"></p>
+<p align="center"><img src="https://github.com/itzanuragsinghania/IRIS-Flower-Classification/IRIS%20Flower%20Classification%20Project/static/Iris-virginica.PNG" height="200" width="200"></p>
 
 ## Introduction
 
